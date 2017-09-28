@@ -1,7 +1,1 @@
-name = Kristiyan
-surname = Vodenicharov
-email = danger12376@abv.bg
-
-name = Sladjan
-size = 191
-email = sdjokic@abv.bg
+дали има значение какво ще пиша тук ?
